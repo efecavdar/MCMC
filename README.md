@@ -26,7 +26,6 @@ Make a binary decision based on probability > threshold
 “Predicted probability of malignancy: 43.6%”
 “Final decision: Benign ✅”
 
-📎 Full notebook: https://github.com/efecavdar/MCMC/
 (optional thumbnail of the histogram of predicted probabilities)
 
 🇹🇷 TÜRKÇE VERSİYONU
@@ -49,4 +48,3 @@ Tek bir örnek için tahmin yaptık ve belirsizlik dağılımını analiz ettik
 
 Tahmin > 0.5 ise sınıflandırma kararı verdik
 
-Notebook : https://github.com/efecavdar/MCMC/
