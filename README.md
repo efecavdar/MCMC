@@ -21,12 +21,9 @@ Predict a single sample and show the full distribution of uncertainty
 
 Make a binary decision based on probability > threshold
 
-📊 Here's an example output:
 
-“Predicted probability of malignancy: 43.6%”
-“Final decision: Benign ✅”
+![image](https://github.com/user-attachments/assets/21739c73-dcee-4d58-812e-9853ba4fde78)
 
-(optional thumbnail of the histogram of predicted probabilities)
 
 🇹🇷 TÜRKÇE VERSİYONU
 “Bir yapay zekanın sadece doğru olması değil, ne kadar emin olduğunu da bilmesi gerekir.”
